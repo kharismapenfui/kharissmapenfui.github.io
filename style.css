@@ -1244,11 +1244,11 @@ footer{background:linear-gradient(135deg,#052d4a,#062f4f)}
   }
 
   .hero-art.photo-hero{
-    display:none !important;
+    display:block !important;
   }
 
   .mobile-church-photo{
-    display:block !important;
+    display:none !important;
     position:relative !important;
     width:calc(100% - 28px) !important;
     margin:10px auto 0 !important;
